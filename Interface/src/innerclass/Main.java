@@ -21,6 +21,12 @@ public class Main {
 			}			
 		}.print();
 
+		
+		
+	int a = 10;
+	int ar [] = {100, 200, 300};
+	System.out.println(a);
+	System.out.println(ar[2]);
 	}
 
 }
